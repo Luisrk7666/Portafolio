@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+h1 {
+    font-family: 'Tilt Warp', cursive;
+    
+
+}
+.linea{
+    width:70%;
+    background-color:yellow;
+    height:4px;
+    text-align:center;
+    margin:8px;
+}
+#juegos{
+    text-align: center;
+    width: 100%;
+}
